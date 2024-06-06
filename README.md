@@ -9,8 +9,13 @@
 <p> <a href = https://rafalab.dfci.harvard.edu/dsbook-part-2/> Introduction to Data Science - Statistics and Prediction Algorithms Through Case Studies</a> </p>
 
 <h2> R Packages </h2>
+<p> <a href = https://swirlstats.com/> Swirl</a>: Swirl teaches you R programming and data science interactively, at your own pace, and right in the R console </p>
 <p> <a href = https://haven.tidyverse.org/> Haven</a>: Haven enables R to read and write various data formats used by other statistical packages (.sas, .sav, .dta, etc.) </p>
 <p> <a href = https://github.com/mtennekes/cols4all> cols4all</a>: cols4all is an R package for selecting color palettes for both people with normal color vision and color vision deficiency </p>
+<p> <a href = https://ggplot2.tidyverse.org/> ggplot2</a>: Make beautiful plots in R
+
+<p style = "margin-left: 25px;"> <a href = https://indrajeetpatil.github.io/ggstatsplot/> ggstatsplot</a>: An extension of ggplot2 package for creating graphics with details from statistical tests included in the information-rich plots themselves. </p>
+<p style = "margin-left: 25px;"> <a href = https://jonocarroll.github.io/ggeasy/> ggeasy</a>: Easy implementations for many of the <em>theme()</em> arguments in ggplot2
 
 <h2> Literature Review </h2>
 <p> <a href = https://www.connectedpapers.com> Connected Papers</a>: Explore academic papers in a visual graph </p>
