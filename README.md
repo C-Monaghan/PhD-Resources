@@ -9,6 +9,7 @@
 - [R for Data Science (2nd Edition)](https://r4ds.hadley.nz/)
 - [Introduction to Data Science - Data Wrangling and Visualization with R](https://rafalab.dfci.harvard.edu/dsbook-part-1/)
 - [Introduction to Data Science - Statistics and Prediction Algorithms Through Case Studies](https://rafalab.dfci.harvard.edu/dsbook-part-2/)
+- [Big Book of R](https://www.bigbookofr.com/)
 
 ## R Packages
 
@@ -19,6 +20,8 @@
 
   - [ggstatsplot](https://indrajeetpatil.github.io/ggstatsplot/): An extension of ggplot2 package for creating graphics with details from statistical tests included in the information-rich plots themselves.
   - [ggeasy](https://jonocarroll.github.io/ggeasy/): Easy implementations for many of the *theme()* arguments in ggplot2.
+
+- [easystats](https://github.com/easystats): collection of R packages, which aims to provide a unifying and consistent framework to "tame, discipline, and harness the scary R statistics and their pesky models".
 
 ## Literature Review
 
@@ -39,6 +42,11 @@
 - [Web of Science](https://www.webofscience.com/wos/woscc/basic-search): Web of Science is used to track, evaluate, and compare scientific research.
 - [Journal Suggester (Taylor & Francis)](https://authorservices.taylorandfrancis.com/publishing-your-research/choosing-a-journal/journal-suggester/): The suggester uses artificial intelligence to recommend journals based on the abstract of your paper.
 - [CRediT Author Statement](https://www.elsevier.com/researcher/author/policies-and-guidelines/credit-author-statement): CRediT offers authors the opportunity to share an accurate and detailed description of their diverse contributions to the published work.
+
+## Productivity
+
+- [Notion](https://www.notion.so/): Notion is an all in one productivity and note-taking web application.
+- [Obsidian](https://obsidian.md/): Obsidian is the private and flexible writing app that adapts to the way you think.
 
 ## Online Resources
 
